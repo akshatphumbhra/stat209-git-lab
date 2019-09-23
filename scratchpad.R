@@ -1,1 +1,0 @@
-# This is an R script called scratchpad.
